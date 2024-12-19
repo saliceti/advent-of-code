@@ -23,5 +23,3 @@ for x in range(0, len(column1)):
   total += d
 
 print(total)
-print(column1[0])
-print(column2[0])
